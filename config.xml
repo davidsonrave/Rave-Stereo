@@ -1,12 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="co.edu.pascualbravo.emisora" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Activa Stereo</name>
-    <description>
-         App oficial Activa Stereo 
-    </description>
-    <author email="diego19870910@gmail.com" href="http://pascualbravo.edu.com">
-        Davidson Rave
-    </author>
+<widget id="co.edu.iudigitalstereo.app" version="1.0.0"
+xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<name> Activa Stereo</name>
+<description>
+App Oficial Emisora Activa
+</description>
+<author email="contacto@iudigital.edu.co"
+href="http://www.iudigital.edu.co">
+Davidson Rave
+</author>
 <content src="index.html" />
 <preference name="DisallowOverscroll" value="true" />
 <preference name="android-minSdkVersion" value="14" />
@@ -45,17 +47,24 @@ spec="~1.2.0" />
 <icon density="xxhdpi" src="www/res/icon/android/xxhdpi.png" />
 <icon density="xxxhdpi" src="www/res/icon/android/xxxhdpi.png" />
 
-<splash density="land-ldpi" src="www/res/screen/android/splash-port-ldpi.png" />
+<splash density="land-ldpi" src="www/res/screen/android/splash-port-
+ldpi.png" />
 
-<splash density="land-mdpi" src="www/res/screen/android/splash-port-mdpi.png" />
+<splash density="land-mdpi" src="www/res/screen/android/splash-port-
+mdpi.png" />
 
-<splash density="land-hdpi" src="www/res/screen/android/splash-port-hdpi.png" />
+<splash density="land-hdpi" src="www/res/screen/android/splash-port-
+hdpi.png" />
 
-<splash density="land-xhdpi" src="www/res/screen/android/splash-port-xhdpi.png" />
+<splash density="land-xhdpi" src="www/res/screen/android/splash-
+port-xhdpi.png" />
 
-<splash density="land-xxhdpi" src="www/res/screen/android/splash-port-xxhdpi.png" />
+<splash density="land-xxhdpi" src="www/res/screen/android/splash-
+port-xxhdpi.png" />
 
-<splash density="land-xxxhdpi" src="www/res/screen/android/splash-port-xxxhdpi.png" />
+<splash density="land-xxxhdpi" src="www/res/screen/android/splash-
+port-xxxhdpi.png" />
+
 </platform>
 <access origin="*" />
 <allow-intent href="http://*/*" />
